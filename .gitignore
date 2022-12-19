@@ -1,4 +1,2 @@
 node_modules/
 .vscode/
-web-demo/public/upload/*
-!web-demo/public/upload/

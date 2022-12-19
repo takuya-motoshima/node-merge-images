@@ -9,7 +9,6 @@
     "dist/*.js",
     "screencaps",
     "types",
-    "web-demo",
     "CHANGELOG.md",
     "LICENSE",
     "package.json",
